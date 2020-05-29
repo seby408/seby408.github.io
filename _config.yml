@@ -131,6 +131,9 @@ author:
     - label: "Tableau"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sebastian.anaya#!/"
+    - label: "Trailhead"
+      icon: "fas fa-fw fa-link"
+      url: "https://trailblazer.me/id/sebastiananaya"
 
 # Site Footer
 footer:
@@ -154,6 +157,9 @@ footer:
     - label: "Tableau"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sebastian.anaya#!/"
+    - label: "Trailhead"
+      icon: "fas fa-fw fa-link"
+      url: "https://trailblazer.me/id/sebastiananaya"
 
 
 # Reading Files
