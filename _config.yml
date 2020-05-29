@@ -111,7 +111,7 @@ analytics:
 author:
   name: "Sebastian G. Anaya"
   avatar : "assets/images/ProfilePicture.jpg"
-  bio  : "Consulting| Analytics| Salesforce| Startups"
+  bio  : "Salesforce Analytics Consultant"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
