@@ -28,7 +28,7 @@ teaser                   : /assets/images/ProfilePicture.jpg
 logo                     : #
 masthead_title           : "Sebastian G. Anaya"
 breadcrumbs              : true
-words_per_minute         : #
+words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "sebganaya@gmail.com"
+      url: "mailto:sebganaya@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://sebastianganaya.com"
@@ -140,7 +140,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "sebganaya@gmail.com"
+      url: "mailto:sebganaya@gmail.com"
 
     - label: "Website"
       icon: "fas fa-fw fa-link"
