@@ -1,6 +1,6 @@
 main:
   - title: "ABOUT"
-    url: /home
+    url: /ABOUT
   - title: "FEATURED"
     sublinks:
   - title: "SKILLS"
