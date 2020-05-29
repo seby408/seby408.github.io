@@ -1,7 +1,9 @@
 ---
-layout: splash
+title: About Me
+author: Sebastian Anaya
+author_profile: true
+layout: single
 permalink: /about
-title: "About Me"
 ---
 
 Welcome to my website!
@@ -13,3 +15,7 @@ My professional interests include: Artificial Intelligence, Cloud Computing, Int
 In my spare time, I enjoy soccer, tennis and traveling to learn about different cultures. I have visited 21 different countries.
 
 Gallup StrengthsFinder: Restorative | Analytical | Futuristic | Input | Learner 
+
+## Disclaimer
+
+Any views or opinions expressed here are strictly my own. I am solely responsible for all content published here. This is a personal blog, not a corporate blog. Content published here is not read, reviewed, or approved in advance by my employer and does not necessarily represent or reflect the views or opinions of my employer or any of its divisions, subsidiaries, or business partners.
