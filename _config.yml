@@ -23,7 +23,7 @@ name                     : "Sebastian G. Anaya"
 description              : "A consultant that is passionate about data, innovation and sports."
 url                      : "https://sebastianganaya.com/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "CloudChaoszero/CloudChaoszero.github.io" # GitHub username/repo-name
+repository               : "seby408/seby408.github.io" # GitHub username/repo-name
 teaser                   : /assets/images/ProfilePicture.jpg 
 logo                     : #
 masthead_title           : "Sebastian G. Anaya"
@@ -111,7 +111,7 @@ analytics:
 author:
   name: "Sebastian G. Anaya"
   avatar : "assets/images/ProfilePicture.jpg"
-  bio  : "Consulting | Analytics | Salesforce | Startups"
+  bio  : "Consulting| Analytics| Salesforce| Startups"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
