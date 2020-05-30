@@ -4,11 +4,11 @@ main:
   - title: "FEATURED"
     sublinks:
   - title: "SKILLS"
-    url: /resume
     sublinks:
       - title: "Resume"
         url: /skills/resume
   - title: "PORTFOLIO"
     sublinks:
   - title: "Seby408"
+    url: https://www.youtube.com/channel/UCNWug4X-bKlPPL8zn8Eqhbg
     sublinks:
