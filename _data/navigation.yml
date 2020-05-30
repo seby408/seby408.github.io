@@ -4,7 +4,7 @@ main:
   - title: "FEATURED"
     sublinks:
   - title: "SKILLS"
-    url: /skills/resume
+    url: /resume
     sublinks:
       - title: "Resume"
         url: /skills/resume
