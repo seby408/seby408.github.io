@@ -6,7 +6,7 @@ layout: single
 permalink: /about
 ---
 
-Welcome to my website!
+Welcome to my website! It is mostly work in progress if you are seeing this now :)
 
 I am Salesforce Analytics consultant currnetly working for one of the largest consulting firms. I am able to leverage Business Intelligence and Analytical tools to extract insight and drive innovative solutions for businesses.  
 
