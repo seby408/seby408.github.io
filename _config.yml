@@ -112,6 +112,7 @@ author:
   name: "Sebastian G. Anaya"
   avatar : "assets/images/ProfilePicture.jpg"
   bio  : "Salesforce Analytics Consultant"
+  location : "Northern California"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -160,6 +161,9 @@ footer:
     - label: "Trailhead"
       icon: "fas fa-fw fa-link"
       url: "https://trailblazer.me/id/sebastiananaya"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/sebganaya"
 
 
 # Reading Files

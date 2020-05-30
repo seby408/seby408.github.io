@@ -5,6 +5,8 @@ main:
     sublinks:
   - title: "SKILLS"
     sublinks:
+      - title: "Resume"
+        url: /skills/resume
   - title: "PORTFOLIO"
     sublinks:
   - title: "Seby408"
