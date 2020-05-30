@@ -139,13 +139,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sebganaya@gmail.com"
-
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sebastianganaya.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sebganaya"
@@ -158,9 +151,6 @@ footer:
     - label: "Tableau"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sebastian.anaya#!/"
-    - label: "Trailhead"
-      icon: "fas fa-fw fa-link"
-      url: "https://trailblazer.me/id/sebastiananaya"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sebganaya"
