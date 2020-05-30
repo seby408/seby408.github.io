@@ -3,7 +3,7 @@ main:
     url: /about
   - title: "FEATURED"
     sublinks:
-  - title: "SKILLS"
+  - title: "RESUME"
     url: /skills/resume
     sublinks:
       - title: "Resume"
@@ -11,6 +11,10 @@ main:
   - title: "PORTFOLIO"
     url: /portfolio
     sublinks:
+      - title: "Projects"
+        url: /portfolio/projects
+      - title: "Investments"
+        url: /portfolio/investments   
   - title: "Seby408"
     url: https://www.youtube.com/channel/UCNWug4X-bKlPPL8zn8Eqhbg
     sublinks:
