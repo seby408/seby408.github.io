@@ -58,34 +58,43 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Sebastian Anaya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Investor and Data-driven Leader"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Contact Me"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sebganaya@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sebganaya"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/seby408"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sebastiananaya/"
+    - label: "Tableau"
+      icon: "fas fa-fw fa-link"
+      url: "https://public.tableau.com/profile/sebastian.anaya#!/"
+    - label: "Trailhead"
+      icon: "fas fa-fw fa-link"
+      url: "https://trailblazer.me/id/sebastiananaya"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sebganaya"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/seby408"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/sebastiananaya/"
+    - label: "Tableau"
+      icon: "fas fa-fw fa-link"
+      url: "https://public.tableau.com/profile/sebastian.anaya#!/"
 
 defaults:
   # _posts
