@@ -4,9 +4,9 @@ title: "Resume"
 date: 2023-03-29
 last_modified_at: 2023-03-29
 description: "Resume page for Sebastian G. Anaya"
-permalink: /about/resume
 author_profile: false
 comments: false
+permalink: /about/resume
 ---
 
 Education
