@@ -9,7 +9,7 @@ With my experience in consulting in the Salesforce space, I've been able to driv
 
 In addition to Blockdaemon, I am also the Co-founder of Fuerza Ventures, a firm focused on stregthening underrepresented founders.
 
-I was born in San Jose, but I grew up in the Sacramento area. In 2021, I moved to Dallas,TX in 2021. I'm a first-generation Mexican-American and the very first of my family to attend a four-year institution, UC Davis.
+I was born in San Jose, but I grew up in the Sacramento area. In 2021, I moved to Dallas, TX. I'm a first-generation Mexican-American and the very first of my family to attend a four-year institution, UC Davis.
 
 In my spare time, I enjoy soccer (Arsenal FC), tennis, and traveling to learn about different cultures. I've visited over 30 different countries.
 
