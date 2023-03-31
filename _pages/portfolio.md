@@ -2,7 +2,8 @@
 permalink: /portfolio/
 title: "Portfolio"
 ---
-
+Investments
+---
 I consider myself lucky to have had the opportunity to support founders building amazing companies.
 
 Below are some of the invesments I've made:
