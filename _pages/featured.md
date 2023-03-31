@@ -26,6 +26,9 @@ Presentations
 
 *Analyze your Tableau CRM Dataflows Performance*
 
+**Dreamforce -  2019**
+*[Einstein Analytics: Tips & Tricks](https://www.salesforce.com/video/7830992/)*
+
 **NorCal Dreamin' - 2019**
 
 *Ask the Experts - Einstein Analytics*
@@ -33,8 +36,6 @@ Presentations
 **CenCal Dreamin' - 2019**
 
 *Spoke at the first ever CenCal Dreamin' on Einstein Analytics*
-
-**Dreamforce 2019**
 
 **Women in Data Meetup - 2019**
 
