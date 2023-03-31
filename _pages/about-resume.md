@@ -60,3 +60,7 @@ Presentations
 **Dreamforce 2019**
 
 **Women in Data Meetup - 2019**
+
+Gallup StrengthsFinder
+---
+Restorative | Analytical | Futuristic | Input | Learner 
