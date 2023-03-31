@@ -3,11 +3,6 @@ main:
     url: /posts/
   - title: "Portfolio"
     url: /portfolio/
-        sublinks:
-      - title: "Projects"
-        url: /portfolio/projects
-      - title: "Investments"
-        url: /portfolio/investments 
   - title: "About"
     url: /about/
     sublinks:
