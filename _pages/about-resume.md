@@ -12,7 +12,7 @@ permalink: /about/resume
 Education
 ---
 
-**Bachelor of Science**, University of California, Davis *Managerial Economics*, June 2015.
+**Bachelor of Science**, University of California, Davis - Managerial Economics, June 2015.
 
 Professional Employment
 ---
@@ -24,7 +24,7 @@ Professional Employment
 
 **Accenture** - *Associate Manager, Salesforce AI & Analytics (2018 - 2021)* 
 
-**SaaScend, LLC** - *Salesforce Consultant (2017 - 2018)*
+**SaaScend** - *Salesforce Consultant (2017 - 2018)*
 
 **Oracle** - *License Consultant (2015 - 2017)*
 
