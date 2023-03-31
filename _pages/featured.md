@@ -23,9 +23,15 @@ Panels
 Presentations
 ---
 **CenCal Dreamin' - 2021**
+
 *Analyze your Tableau CRM Dataflows Performance*
 
+**NorCal Dreamin' - 2019**
+
+*Ask the Experts - Einstein Analytics*
+
 **CenCal Dreamin' - 2019**
+
 *Spoke at the first ever CenCal Dreamin' on Einstein Analytics*
 
 **Dreamforce 2019**
