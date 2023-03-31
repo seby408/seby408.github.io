@@ -1,9 +1,15 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "Portfolio"
+    url: /portfolio/
+        sublinks:
+      - title: "Projects"
+        url: /portfolio/projects
+      - title: "Investments"
+        url: /portfolio/investments 
   - title: "About"
     url: /about/
+    sublinks:
+      - title: "Resume"
+        url: /about/resume
