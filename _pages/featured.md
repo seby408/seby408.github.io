@@ -23,14 +23,16 @@ Panels
 Presentations
 ---
 **CenCal Dreamin' - 2021**
+*Analyze your Tableau CRM Dataflows Performance*
 
 **CenCal Dreamin' - 2019**
+*Spoke at the first ever CenCal Dreamin' on Einstein Analytics*
 
 **Dreamforce 2019**
 
 **Women in Data Meetup - 2019**
 
-*[October Lightening Talks - Salesforce, Tableau, and Einstein Analytics](https://www.facebook.com/events/1333741036790710/)*
+*[October Lightning Talks - Salesforce, Tableau, and Einstein Analytics](https://www.facebook.com/events/1333741036790710/)*
 
 
 Podcasts
