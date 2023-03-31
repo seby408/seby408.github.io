@@ -7,7 +7,7 @@ Panels
 **Tejano Tech Summit - 2022**
 *Building a career in the Salesforce ecosystem*
 
-**Global Latinx in Cloud Technologies - 2021 **
+**Global Latinx in Cloud Technologies - 2021**
 *Increasing Latinx Representation in the Salesforce Ecosystem*
 
 **U First Capital Summit - 2019** 
