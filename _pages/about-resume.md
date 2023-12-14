@@ -12,7 +12,7 @@ permalink: /about/resume
 Education
 ---
 
-**Bachelor of Science**, University of California, Davis - Managerial Economics, June 2015.
+**Bachelor of Science**, University of California, Davis - *Managerial Economics*, June 2015.
 
 Professional Employment
 ---
