@@ -4,13 +4,14 @@ title: "Portfolio"
 ---
 Investments
 ---
-I consider myself lucky to have had the opportunity to support founders building amazing companies.
+I consider myself lucky to have had the opportunity to support amazing founders building innovative companies.
 
-Below are some of the invesments I've made:
+Below are some of the investments I've made:
 
-| Company | Description | Link |
+| Company | Industry | Link |
 |-------|--------|---------|
 | Finix | FinTech | [finix.com](https://finix.com/) |
-| SignalWire | TelCo/SaaS | [signalwire.com](https://signalwire.com/) |
+| SignalWire | TelCo | [signalwire.com](https://signalwire.com/) |
 | Brex | FinTech | [brex.com](https://www.brex.com/) |
 | CareerKarma | EdTech | [careerkarma.com](https://careerkarma.com/) |
+| Noula | Health Care | [noula.com](https://noula.com/) |
