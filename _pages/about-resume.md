@@ -2,11 +2,11 @@
 layout: single
 title: "Resume"
 date: 2023-03-29
-last_modified_at: 2023-03-29
+last_modified_at: 2023-12-14
 description: "Resume page for Sebastian G. Anaya"
 author_profile: false
 comments: false
-permalink: /about/resume
+permalink: /about/resume/
 ---
 
 Education
@@ -18,7 +18,7 @@ Professional Employment
 ---
 **Blockdaemon** - *Revenue Operations Manager (2022 - 2023)*
 
-**Accenture** - *Sr. Technical Product Manager (2021 - 2022)*
+**Science Exchange** - *Sr. Technical Product Manager (2021 - 2022)*
 
 **Juniper Networks** - *Sales Operations Manager (2021)*
 
