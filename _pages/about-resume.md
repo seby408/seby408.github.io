@@ -16,7 +16,7 @@ Education
 
 Professional Employment
 ---
-**Blockdaemon** - *Sales Operations Manager (2022 - Present)*
+**Blockdaemon** - *Revenue Operations Manager (2022 - 2023)*
 
 **Accenture** - *Sr. Technical Product Manager (2021 - 2022)*
 
@@ -35,11 +35,12 @@ Certifications
 
 *   Salesforce Certified Admnistrator
 *   Salesforce Certified Advanced Administrator
+*   Salesforce Certified App Builder
 *   Salesforce Certified Sales Cloud Consultant
 *   Salesforce Certified Service Cloud Consultant
-*   Salesforce Certified App Builder
-*   Salesforce Certified Einstein Analytics and Discovery Consultant
-*   Salesforce Certified Community Cloud Consultant
+*   Salesforce Certified AI Associate
+*   Salesforce Certified Tableau CRM and Einstein Discovery Consultant
+*   Salesforce Certified Experience Cloud Consultant
 *   Salesforce Certified Sharing and Visibility Designer
 *   Salesforce Certified Data Architecture and Management Designer
 *   Tableau Desktop Specialist
