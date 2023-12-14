@@ -24,7 +24,7 @@ Presentations
 ---
 **CenCal Dreamin' - 2021**
 
-*Analyze your Tableau CRM Dataflows Performance*
+*[Analyze your Tableau CRM Dataflows Performance](https://www.facebook.com/cencaldreamin/photos/a.112878103528629/318682539614850/)*
 
 **Dreamforce -  2019**
 
@@ -45,3 +45,10 @@ Presentations
 
 Podcasts
 ---
+**Latinos Who Tech w/ Hugo Castellanos**
+
+*[Building a Career as a Salesforce Consultant](https://open.spotify.com/episode/6OJJrguGmbGWaOOtGW37MK)*
+
+**Latinx America w/ Adriana Flores-Ragade**
+
+*[Peaks and Valleys as a Young Professional](https://www.latinxamerica.com/episodes/sebastian-anaya-peaks-and-valleys-as-a-young-professional)*
