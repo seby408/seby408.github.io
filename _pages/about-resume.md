@@ -6,7 +6,7 @@ last_modified_at: 2023-12-14
 description: "Resume page for Sebastian G. Anaya"
 author_profile: false
 comments: false
-permalink: about/resume
+permalink: /about/resume
 ---
 
 Education
