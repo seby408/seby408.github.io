@@ -11,7 +11,7 @@ I was born in San Jose, but I grew up in the Sacramento area. In 2021, I moved t
 In my spare time, I enjoy soccer (Arsenal FC), tennis, and traveling to learn about different cultures. I've visited over 30 different countries.
 
 # Resume
-Education
+##Education
 ---
 
 **Bachelor of Science**, University of California, Davis - *Managerial Economics*, June 2015.
