@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
 With my experience in consulting in the Salesforce space, I've been able to drive revenue success through continuous process improvement, systems refinement, and actionable insights to increase revenue, sales productivity, and operational efficiency. I've obtained 10 Salesforce certifications and 1 Tableau certification.
 
