@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Sebastian Anaya"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Investor and Data-driven Leader"
+  bio    : "Data-driven Leader and Investor"
   location : "Dallas, TX"
   links:
     - label: "Contact Me"
