@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "resume"
+title: "Resume"
 date: 2023-03-29
 last_modified_at: 2023-12-14
 description: "Resume page for Sebastian G. Anaya"
