@@ -1,9 +1,12 @@
 main:
   - title: "About"
     url: /about/
+    sublinks:
+      - title: "Resume"
+        url: /about/resume
   - title: "Featured"
     url: /featured/    
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Resume"
-    url: /about/resume
+  #- title: "Resume"
+    #url: /about/resume
