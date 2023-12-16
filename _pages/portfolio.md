@@ -10,21 +10,21 @@ Below are some of the investments I've made:
 
 Fuerza Ventures
 ---
-| Company | Industry | Link |
+| Company | Industry | Description |
 |-------|--------|---------|
-| [KiddieKredit](https://www.kiddiekredit.com/) | EdTech | [kiddiekredit.com](https://www.kiddiekredit.com/) |
-| Mirza | FinTech | [heymirza.com](https://www.heymirza.com/) |
-| Kibo | EdTech | [kibo.school](https://kibo.school/) |
-| ToDooly | Gig Platform | [todooly.com](https://www.todooly.com/) |
-| Freeman Capital | FinTech | [freemancapital.co](https://freemancapital.co/) |
+| [KiddieKredit](https://www.kiddiekredit.com/) | EdTech | - |
+| [Mirza](https://www.heymirza.com/) | FinTech | - |
+| [Kibo](https://kibo.school/) | EdTech | - |
+| [ToDooly](https://www.todooly.com/) | Gig Platform | - |
+| Freeman Capital | FinTech | - |
 
 Angel Investments
 ---
-| Company | Industry | Link |
+| Company | Industry | Description |
 |-------|--------|---------|
-| Finix | FinTech | [finix.com](https://finix.com/) |
-| SignalWire | TelCo | [signalwire.com](https://signalwire.com/) |
-| Brex | FinTech | [brex.com](https://www.brex.com/) |
-| CareerKarma | EdTech | [careerkarma.com](https://careerkarma.com/) |
-| Noula | Health Care | [noula.com](https://noula.com/) |
-| CraveIt | Social | [craveit.co](https://www.craveit.co/) |
+| [Finix](https://finix.com/) | FinTech | - |
+| [SignalWire](https://signalwire.com/) | TelCo | - |
+| [Brex](https://www.brex.com/) | FinTech | - |
+| [CareerKarma](https://careerkarma.com/) | EdTech | - |
+| [Noula](https://noula.com/) | Health Care | - |
+| CraveIt | Social | - |
