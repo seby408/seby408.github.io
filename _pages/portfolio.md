@@ -12,7 +12,7 @@ Fuerza Ventures
 ---
 | Company | Industry | Link |
 |-------|--------|---------|
-| KiddieKredit | EdTech | [kiddiekredit.com](https://www.kiddiekredit.com/) |
+| [KiddieKredit](https://www.kiddiekredit.com/) | EdTech | [kiddiekredit.com](https://www.kiddiekredit.com/) |
 | Mirza | FinTech | [heymirza.com](https://www.heymirza.com/) |
 | Kibo | EdTech | [kibo.school](https://kibo.school/) |
 | ToDooly | Gig Platform | [todooly.com](https://www.todooly.com/) |
