@@ -14,7 +14,7 @@ Panels
 
 **U First Capital Summit - 2019** 
 
-*AI/DEEP TECH Panel*
+*[AI/DEEP TECH Panel](https://www.meetup.com/sipaorg/events/259300779/)*
 
 **AI Fintech Forum - San Francisco 2018**
 
