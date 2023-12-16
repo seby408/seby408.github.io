@@ -11,8 +11,8 @@ I was born in San Jose, but I grew up in the Sacramento area. In 2021, I moved t
 In my spare time, I enjoy soccer (Arsenal FC), tennis, and traveling to learn about different cultures. I've visited over 30 different countries.
 
 # Resume
-##Education
----
+
+## Education
 
 **Bachelor of Science**, University of California, Davis - *Managerial Economics*, June 2015.
 
@@ -35,7 +35,7 @@ Certifications
 
 **Salesforce**
 
-*   Salesforce Certified Admnistrator
+*   Salesforce Certified Administrator
 *   Salesforce Certified Advanced Administrator
 *   Salesforce Certified App Builder
 *   Salesforce Certified Sales Cloud Consultant
@@ -60,5 +60,5 @@ Gallup StrengthsFinder
 Restorative | Analytical | Futuristic | Input | Learner 
 
 # Disclaimer
-
+---
 Any views or opinions expressed here are strictly my own. I am solely responsible for all content published here. This is a personal blog, not a corporate blog. Content published here is not read, reviewed, or approved in advance by my employer and does not necessarily represent or reflect the views or opinions of my employer or any of its divisions, subsidiaries, or business partners.
