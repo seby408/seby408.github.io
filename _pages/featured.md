@@ -10,7 +10,7 @@ Panels
 
 **Global Latinx in Cloud Technologies - 2021**
 
-*Increasing Latinx Representation in the Salesforce Ecosystem*
+*[Increasing Latinx Representation in the Salesforce Ecosystem](https://x.com/Chuy101/status/1324793138750267392?s=20)*
 
 **U First Capital Summit - 2019** 
 
