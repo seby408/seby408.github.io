@@ -6,7 +6,7 @@ Panels
 ---
 **Tejano Tech Summit - 2022**
 
-*Building a career in the Salesforce ecosystem*
+*[Building a career in the Salesforce ecosystem](https://media.licdn.com/dms/image/C5622AQG8OqbHiY8gtA/feedshare-shrink_800/0/1665753718199?e=2147483647&v=beta&t=sNd6Wh-rLRMUtmQ0XHBTeAX79wDbFwRjbtOKEzXidL4)*
 
 **Global Latinx in Cloud Technologies - 2021**
 
