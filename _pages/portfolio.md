@@ -2,14 +2,13 @@
 permalink: /portfolio/
 title: "Portfolio"
 ---
-INVESTMENTS
+Investments
 ---
 I consider myself lucky to have had the opportunity to support amazing founders building innovative companies.
 
 Below are some of the investments I've made:
 
-Fuerza Ventures
----
+### Fuerza Ventures
 | Company | Industry | Description |
 |-------|--------|---------|
 | [KiddieKredit](https://www.kiddiekredit.com/) | EdTech | - |
@@ -18,8 +17,7 @@ Fuerza Ventures
 | [ToDooly](https://www.todooly.com/) | Gig Platform | - |
 | Freeman Capital | FinTech | - |
 
-Angel Investments
----
+### Angel Investments
 | Company | Industry | Description |
 |-------|--------|---------|
 | [Finix](https://finix.com/) | FinTech | - |
