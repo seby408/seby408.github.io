@@ -75,7 +75,7 @@ author:
     - label: "Tableau"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sebastian.anaya#!/"
-    - label: "Trailhead"
+    - label: "Trailblazer profile"
       icon: "fas fa-fw fa-link"
       url: "https://trailblazer.me/id/sebastiananaya"
 
@@ -93,6 +93,9 @@ footer:
     - label: "Tableau"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sebastian.anaya#!/"
+    - label: "Trailblazer profile"
+      icon: "fas fa-fw fa-link"
+      url: "https://trailblazer.me/id/sebastiananaya"
 
 defaults:
   # _posts
