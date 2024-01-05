@@ -10,7 +10,7 @@ Below are some of the investments I've made:
 
 ### Fuerza Ventures
 | Company | Industry |
-|-------|--------|
+|:--------|:-------:|
 | [KiddieKredit](https://www.kiddiekredit.com/) | EdTech |
 | [Mirza](https://www.heymirza.com/) | FinTech |
 | [Kibo](https://kibo.school/) | EdTech |
@@ -19,7 +19,7 @@ Below are some of the investments I've made:
 
 ### Angel Investments
 | Company | Industry |
-|-------|--------|
+|:--------|:-------:|
 | [Finix](https://finix.com/) | FinTech |
 | [SignalWire](https://signalwire.com/) | TelCo |
 | [Brex](https://www.brex.com/) | FinTech |
