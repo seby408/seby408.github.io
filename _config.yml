@@ -16,7 +16,7 @@
 title: Sebastian G. Anaya
 email: mailto:sebganaya@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-twitter_username: sebganaya
+#twitter_username: sebganaya
 #github_username: seby408
 minimal_mistakes_skin: default
 search: true
