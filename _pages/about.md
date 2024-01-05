@@ -6,9 +6,9 @@ With my experience in consulting in the Salesforce space, I've been able to driv
 
 In addition to my work, I am also the Co-founder of Fuerza Ventures, a firm focused on strengthening underrepresented founders.
 
-I was born in San Jose, but I grew up in the Sacramento area. In 2021, I moved to Dallas, TX. I'm a first-generation Mexican-American and the very first of my family to attend a four-year institution, UC Davis.
+I was born in San Jose, but I grew up in the Sacramento area. In 2021, I moved to Dallas, TX and have now returned to San Jose. I'm a first-generation Mexican-American and the very first of my family to attend a four-year institution, UC Davis.
 
-In my spare time, I enjoy soccer (Arsenal FC), tennis, and traveling to learn about different cultures. I've visited over 30 different countries.
+In my spare time, I enjoy soccer (Arsenal FC), hockey (Go Sharks!), tennis, and traveling to learn about different cultures. I've visited over 30 different countries.
 
 # Resume
 
@@ -30,6 +30,21 @@ Professional Employment
 
 **Oracle** - *License Consultant (2015 - 2017)*
 
+Activities
+---
+**[Fuerza Ventures](https://www.fuerzaventures.com/)** - *Co-Founder (2020 - 2023)*
+  * Fuerza Ventures invests in pre-seed to seed stage mission-focused startups led by underrepresented founders.
+  * Source deals, complete due diligence, pitch and close LPs, design pitch deck, secure partnerships, draft LP updates and provide guidance and advice to Fund 1 portfolio companies. 
+
+**[Latinx in AI](https://www.latinxinai.org/)** - *Co-Founder (2018 - 2019)*
+  * Organization dedicated to increasing representation and improving access to education and resources in AI for the Latinx community globally.
+
+**[Bay Angels](https://bayangels.com/)** - *Investment Associate (2017 - 2019)*
+  * Screened and analyzed over 80 pitch decks including sourcing, due diligence, deal structuring, and deep dives.
+  * Created a standard rubric and guide for analysts to use to screen companies.
+  * Contributed to BayAngels' operations, growth strategies, corporate and investor partnerships, and pitch events; Managed relationships with LATAM Investors and Founders.
+  * Presented and conducted research to educate the team in growing industries such as AI, IoT, and FinTech.
+
 Certifications
 ---
 
@@ -49,11 +64,15 @@ Certifications
 
 **Other**
 *   Udacity Data Product Manager Nanodegree
-*   VC University Online
+*   VC University Online - UC Berkeley Law
 *   Product School - Product Analytics Micro-Certification (PAC)
 *   Data Science Dojo Bootcamp, Data Science and Data Engineering Bootcamp
 *   Copado Administrator
 *   ICAgile Certified Professional
+
+Awards
+---
+*   [2x CRM Analytics Ambassador](https://www.credly.com/badges/a5e0b480-e1da-45a5-b3a8-b7da1b827a63/linked_in) (2020 - 2022)
 
 Gallup StrengthsFinder
 ---
