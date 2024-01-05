@@ -9,6 +9,7 @@ I consider myself lucky to have had the opportunity to support amazing founders 
 Below are some of the investments I've made:
 
 ### Fuerza Ventures
+
 | Company | Industry |
 |:--------|:-------:|
 | [KiddieKredit](https://www.kiddiekredit.com/) | EdTech |
@@ -18,6 +19,7 @@ Below are some of the investments I've made:
 | Freeman Capital | FinTech |
 
 ### Angel Investments
+
 | Company | Industry |
 |:--------|:-------:|
 | [Finix](https://finix.com/) | FinTech |
