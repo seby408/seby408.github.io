@@ -63,9 +63,9 @@ author:
     - label: "Contact Me"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sebganaya@gmail.com"
-    - label: "Twitter"
-      icon: "fab fa-x-twitter"
-      url: "https://twitter.com/sebganaya"
+    #- label: "Twitter"
+      #icon: "fab fa-x-twitter"
+      #url: "https://twitter.com/sebganaya"
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/seby408"
@@ -81,9 +81,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-x-twitter"
-      url: "https://twitter.com/sebganaya"
+    #- label: "Twitter"
+      #icon: "fab fa-x-twitter"
+      #url: "https://twitter.com/sebganaya"
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/seby408"
