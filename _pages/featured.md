@@ -1,6 +1,8 @@
 ---
 permalink: /featured/
 title: "Featured"
+toc: true
+toc_sticky: true
 ---
 Panels
 ---
