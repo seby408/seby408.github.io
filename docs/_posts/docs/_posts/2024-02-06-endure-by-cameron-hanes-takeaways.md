@@ -8,7 +8,7 @@ tags:
   - book-summaries
 ---
 
-I first learned about Cameron Hanes through my admiration of David Goggins. In one of Goggins' famous videos he is enthusiastically yelling "Who is going to carry the boats and the logs?!" while doing the bench press. In the background of that video you can see Cameron Hanes working out alongside David. 
+I first learned about Cameron Hanes through my admiration of David Goggins. In one of Goggins' [famous videos](https://youtu.be/vv-yqq2pwOo?si=JI0O0OtKSxs0VSBx&t=290), he is enthusiastically yelling "Who is going to carry the boats and the logs?!" while doing the bench press. In the background of that video, you can see Cameron Hanes working out alongside David. 
 
 Reading "Endure" by Cameron Hanes isn't just flipping through pages; it's an expedition into the wilds of human potential, spearheaded by a man who chases after life with the same fervor he uses to track game across the North American wilderness. Cameron Hanes is a beast in his own right, a testament to what sheer willpower and raw determination can accomplish. 
 
