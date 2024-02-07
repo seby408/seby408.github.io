@@ -1,7 +1,7 @@
 ---
 title:  "My Top 3 Takeways from Endure by Cameron Hanes"
 header:
-  teaser: "https://images.squarespace-cdn.com/content/v1/58ddb51bbf629a96296da8dd/1564765448274-Z2KJ1VUUJERXD5QP9X5K/Screen+Shot+2019-08-02+at+10.03.03+AM.jpg"
+  teaser: "assets/images/cameron_and_david.jpg"
 categories: 
   - Blog
 tags:
